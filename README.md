@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an undergraduate student at CUMT and an incoming master's student at SYSU.
+
+### 🔬 Research Interests
+- Dexterous Manipulation
+- Real-World Reinforcement Learning
+- Imitation Learning
+- Vision-Language-Action Models (VLA)
